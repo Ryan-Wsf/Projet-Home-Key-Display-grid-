@@ -195,7 +195,7 @@ nav ul li a:hover{
     gap: 40px;
     margin-bottom: 30px;
     display: grid;
-    grid-template-columns: 66% 33%;
+    grid-template-columns: 66% auto;
 }
 
 #section2 h3{
